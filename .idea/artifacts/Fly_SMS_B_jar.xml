@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Fly-SMS-B:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fly_SMS_B_jar</output-path>
+    <root id="archive" name="Fly-SMS-B.jar">
+      <element id="module-output" name="Fly-SMS-B" />
+      <element id="extracted-dir" path="$USER_HOME$/桌面/PushJavaSDK.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ZDataSdk/out/artifacts/ZDataSdk_jar/ZDataSdk.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/ZNetSdk/out/artifacts/ZNetSdk_jar/ZNetSdk.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
